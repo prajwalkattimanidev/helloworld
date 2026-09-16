@@ -1,0 +1,6 @@
+{
+  "name": "Tarana Atelier",
+  "description": "A luxury South Asian fashion e-commerce storefront with editorial curation, designer discovery, and seamless shopping in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
